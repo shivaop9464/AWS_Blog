@@ -6,10 +6,7 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-**Welcome to Shiva's documentation site**
-
-
-This is sample update.
+### Welcome to Shiva's documentation site
 
 *Introduction to this web site*
 
