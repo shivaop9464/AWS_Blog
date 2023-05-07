@@ -11,6 +11,16 @@ permalink: /
 
 This is sample update.
 
+introduction to this web site
+
+
+you can learn this  by clicking the title
+
+
+
+
+
+
 
 ## Introduction to Full Stack Web Development
 Full stack web development refers to the process of building web applications that are functional on both the client-side (frontend) and server-side (backend). This involves working with different technologies, languages, and frameworks that are used to build each layer of the application.
