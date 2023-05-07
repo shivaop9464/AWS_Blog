@@ -6,7 +6,7 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Welcome to Shiva's documentation site
+**Welcome to Shiva's documentation site**
 
 
 This is sample update.
@@ -50,6 +50,9 @@ Backend development refers to the server-side development of a web application. 
 
 ## Backend tools
 Backend developers use various programming languages such as Python, Ruby, Java, and Node.js, along with frameworks such as Django, Ruby on Rails, Spring Boot, and Express, to build the server-side of the application. They also work with databases such as MySQL, PostgreSQL, and MongoDB, to store and retrieve data.
+
+
+![test](https://www.freepik.com/free-photo/beautiful-scenery-summit-mount-everest-covered-with-snow-white-clouds_11062628.htm#query=jpg&position=22&from_view=keyword&track=sph)
 
 
 
