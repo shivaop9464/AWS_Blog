@@ -7,10 +7,10 @@ permalink: /
 ---
 
 # Welcome to Shiva's documentation site
-{: .fs-9 }
+
 
 This is sample update.
-{: .fs-6 .fw-300 }
+
 
 Introduction to Full Stack Web Development
 What is Full Stack Web Development?
