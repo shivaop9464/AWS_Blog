@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: full stack web
 nav_order: 2
 ---
 
