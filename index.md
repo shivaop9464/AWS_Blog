@@ -12,100 +12,45 @@ permalink: /
 This is sample update.
 
 
-Introduction to Full Stack Web Development
-What is Full Stack Web Development?
-Why is it important?
-Overview of Full Stack Web Development process
-Front-End Development
-Introduction to HTML, CSS, and JavaScript
-Understanding the Document Object Model (DOM)
-Introduction to popular front-end frameworks like React, Angular, and Vue.js
-Back-End Development
-Introduction to server-side programming languages like Python, Ruby, and Node.js
-Introduction to popular back-end frameworks like Django, Ruby on Rails, and Express.js
-Introduction to databases and data storage solutions like MySQL, MongoDB, and PostgreSQL
-Full Stack Web Development Tools and Technologies
-Version control systems like Git and GitHub
-Task runners like Grunt and Gulp
-Package managers like npm and yarn
-Code editors like VS Code and Atom
-Best Practices for Full Stack Web Development
-Writing clean, maintainable code
-Testing and debugging
-Performance optimization
-Security best practices
-Building a Full Stack Web Application
-Step-by-step walkthrough of building a simple full stack web application
-Deploying the application to a server
+## Introduction to Full Stack Web Development
+Full stack web development refers to the process of building web applications that are functional on both the client-side (frontend) and server-side (backend). This involves working with different technologies, languages, and frameworks that are used to build each layer of the application.
 
-## Getting started
+## why Full stack web is important ?
 
-The [Just the Docs Template] provides the simplest, quickest, and easiest way to create a new website that uses the Just the Docs theme. To get started with creating a site, just click "[use the template]"!
+Full stack web development is important because it enables developers to build complete web applications that are fully functional and can handle all the necessary features of an application. Here are some reasons why full stack web development is important:
 
-{: .note }
-To use the theme, you do ***not*** need to clone or fork the [Just the Docs repo]! You should do that only if you intend to browse the theme docs locally, contribute to the development of the theme, or develop a new theme based on Just the Docs.
+Efficiency: Full stack developers can work on both the frontend and backend, which can make the development process more efficient. They can handle all aspects of the application development, from the user interface to the database, without having to rely on other developers to handle certain tasks.
 
-You can easily set the site created by the template to be published on [GitHub Pages] – the [template README] file explains how to do that, along with other details.
+Flexibility: Full stack developers can work with different technologies, languages, and frameworks, which gives them more flexibility to choose the best tools for the job. They can adapt to different project requirements and work with various teams and stakeholders.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^2] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Cost-effective: Hiring a full stack developer can be more cost-effective than hiring separate frontend and backend developers. One developer can handle all aspects of the development process, which can save time and resources.
 
-More specifically, the created site:
+Better communication: Full stack developers can communicate more effectively with different teams and stakeholders since they have a broader understanding of the application development process. They can bridge the gap between the frontend and backend teams, which can lead to better collaboration and a more cohesive product.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+End-to-end development: Full stack developers can handle the entire development process from start to finish, including design, development, testing, and deployment. This means they have a holistic understanding of the application development process and can ensure that the final product meets all requirements and specifications.
 
-Other than that, you're free to customize sites that you create with the template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+Overall, full stack web development is important because it enables developers to build complete and robust web applications that meet the needs of clients and end-users.
 
-{: .note }
-See the theme [README][Just the Docs README] for how to use the theme as a gem without creating a new site.
 
-## About the project
 
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
 
-### License
 
-Just the Docs is distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt).
+## Frontend development
+Frontend development refers to the process of creating the user-facing portion of a web application or website. It involves building the interface that users interact with directly, including the visual design, layout, and functionality of the application.
 
-### Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/just-the-docs/just-the-docs#contributing).
+## Frontend tools
+Frontend developers use a combination of HTML, CSS, and JavaScript to create a responsive, interactive, and dynamic user interface. HTML provides the structure and content of the web page, CSS is used to style and layout the content, and JavaScript is used to add interactivity and functionality to the page.
 
-#### Thank you to the contributors of Just the Docs!
+Frontend developers also work with various libraries and frameworks such as React, Angular, or Vue.js, which help to streamline the development process and provide additional functionality.
 
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"></a>
-  </li>
-{% endfor %}
-</ul>
+## Backend development
+Backend development refers to the server-side development of a web application. It involves building the part of the application that handles the business logic, interacts with the database, and generates dynamic content for the user interface.
 
-### Code of Conduct
 
-Just the Docs is committed to fostering a welcoming community.
+## Backend tools
+Backend developers use various programming languages such as Python, Ruby, Java, and Node.js, along with frameworks such as Django, Ruby on Rails, Spring Boot, and Express, to build the server-side of the application. They also work with databases such as MySQL, PostgreSQL, and MongoDB, to store and retrieve data.
 
-[View our Code of Conduct](https://github.com/just-the-docs/just-the-docs/tree/main/CODE_OF_CONDUCT.md) on our GitHub repository.
 
-----
 
-[^1]: The [source file for this page] uses all three markup languages.
 
-[^2]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Jekyll]: https://jekyllrb.com
-[Markdown]: https://daringfireball.net/projects/markdown/
-[Liquid]: https://github.com/Shopify/liquid/wiki
-[Front matter]: https://jekyllrb.com/docs/front-matter/
-[Jekyll configuration]: https://jekyllrb.com/docs/configuration/
-[source file for this page]: https://github.com/just-the-docs/just-the-docs/blob/main/index.md
-[Just the Docs Template]: https://just-the-docs.github.io/just-the-docs-template/
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[Just the Docs repo]: https://github.com/just-the-docs/just-the-docs
-[Just the Docs README]: https://github.com/just-the-docs/just-the-docs/blob/main/README.md
-[GitHub Pages]: https://pages.github.com/
-[Template README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[customize]: {% link docs/customization.md %}
-[use the template]: https://github.com/just-the-docs/just-the-docs-template/generate
