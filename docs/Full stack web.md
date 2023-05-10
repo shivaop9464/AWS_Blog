@@ -1,9 +1,16 @@
 ---
 layout: default
-title: full stack web
+title: Full Stack Web
 nav_order: 2
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 ### FULL STACK WEB DEVELOPMENT
 
 ## Introduction to Full Stack Web Development
