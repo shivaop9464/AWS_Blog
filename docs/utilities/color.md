@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Color
+title: AWS
+
 parent: Utilities
 ---
 
