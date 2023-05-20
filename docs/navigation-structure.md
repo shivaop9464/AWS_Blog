@@ -4,27 +4,12 @@ title: Navigation Structure
 nav_order: 5
 ---
 
-# Navigation Structure
-{: .no_toc }
+Introduction to Amazon Elastic Compute Cloud (EC2)
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
+Lab Details
+This lab walks you through the steps to launch and configure a virtual machine in the Amazon cloud.
 
----
 
-## Main navigation
-
-The main navigation for your Just the Docs site is on the left side of the page at large screens and on the top (behind a tap) on small screens. The main navigation can be structured to accommodate a multi-level menu system (pages with children and grandchildren).
-
-By default, all pages will appear as top level pages in the main nav unless a parent page is defined (see [Pages with Children](#pages-with-children)).
-
----
 
 ## Ordering pages
 
